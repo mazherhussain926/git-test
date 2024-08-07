@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 //write some code to for practice
 
@@ -7,8 +6,8 @@
 // fix some code 22
 
 // fix some code 23
-=======
 //fixing some bugs in code
 
 // fix some bug
->>>>>>> lightmode
+
+// fix bug 100
